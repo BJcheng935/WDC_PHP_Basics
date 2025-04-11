@@ -8,5 +8,10 @@
         "username": "Sergio",
         "password": "$2y$10$ozTtkkAkYIMcCRFTsmEdhuPSiEcXZCO0atq1okmG9sRYF\/1Q72J.C",
         "created_at": "2025-04-08 03:55:20"
+    },
+    {
+        "username": "imanolo",
+        "password": "$2y$10$UnGoBym28N7Y8fkYEAOzd.NMgJkD2B7xjswXFJ79j7na3ywBjyMEW",
+        "created_at": "2025-04-08 21:53:54"
     }
 ]
